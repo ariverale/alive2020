@@ -1,0 +1,28 @@
+main{
+background-color: #448C9A;
+  weight:2000px;
+  height: 2000px;
+
+
+}
+
+.bg-blue{
+  background-color: #F1F777;
+}
+
+.bg-yellow{
+  background-color: #EE447F;
+}
+
+.altura-carrusel, .carousel-inner, .carousel-item{
+  height: 100vh
+}
+
+.bg-terror{
+    background-color: #060101;
+    color: white
+
+}
+.bg-ciencia{
+  background-color: #08B689;
+}
