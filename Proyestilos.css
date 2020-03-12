@@ -2,8 +2,9 @@ main{
 background-color: #448C9A;
   weight:2000px;
   height: 2000px;
-
-
+}
+.nav{
+  backgroug-color: #
 }
 
 .bg-blue{
@@ -19,10 +20,16 @@ background-color: #448C9A;
 }
 
 .bg-terror{
-    background-color: #060101;
+    background-color: #857D7D;
     color: white
 
 }
 .bg-ciencia{
   background-color: #08B689;
+}
+
+.contenedor{
+  display:flex ;
+  justify-content: center;
+  align-items: center;
 }
